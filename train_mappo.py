@@ -1,7 +1,8 @@
 '''
 完整版本的mappo算法代码
 created by: Guowei Zou
-modified: 添加了权重参数保存的相关代码,该代码可以直接通过修改team_size的大小, 改变多智能体的数量，更加容易的拓展到更多智能体的场景。修改图片打印的方式，使其能够覆盖 
+Time: 2025.03.06
+email: zougw@mail2.sysu.edu.cn
 '''
 import os
 import shutil
